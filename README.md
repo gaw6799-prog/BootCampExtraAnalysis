@@ -175,4 +175,3 @@ echo "EODHD_API_KEY=your_key" >> .env  # optional
 ## Ethical Considerations
 
 All data sourced from public archives and open APIs. AI classification methodology is transparent and reproducible. Market manipulation claims are supported by statistical evidence but should be understood as forensic indicators, not legal conclusions. Iran's explicit accusation of market manipulation is documented as evidence, not editorial opinion.
-# BootCampExtraAnalysis
